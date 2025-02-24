@@ -1,5 +1,5 @@
 //1-Generate Shellcode using metasploit framework, it's better to create your own shellcode
-//2-Create the code using the following command: msfvenom -p windows/x64/messagebox TEXT="Madrid" -f c
+//2-Create the code using the following command: msfvenom -p windows/messagebox TEXT="Connecting Minds, Securing Data" -f c
 //3-Compile the code using the following command: x86_64-w64-mingw32-g++ Shellcode_Exec.cpp -o Shellcode_Exec.exe
 //Or use VS compiler
 
