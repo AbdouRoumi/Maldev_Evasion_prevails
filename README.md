@@ -36,6 +36,10 @@ To follow along, ensure you have:
 This repository is for **educational and research purposes only**. The goal is to understand malware techniques to improve **defensive strategies**. **Misuse of this knowledge is strictly prohibited.**  
 
 ## 🤝 Contributing  
-If you have suggestions or improvements, feel free to submit an **issue** or **pull request**!  
+If you have suggestions or improvements, feel free to submit an **issue** or **pull request**!
+
+##More Ressources
+
+https://gist.github.com/maxzxc0110/707faca720d557e8b9554341e48c532c
 
 📢 **Stay tuned for more security research from Nexus Security Club!** 🚀  
