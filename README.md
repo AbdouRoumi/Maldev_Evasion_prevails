@@ -38,13 +38,13 @@ This repository is for **educational and research purposes only**. The goal is t
 ## 🤝 Contributing  
 If you have suggestions or improvements, feel free to submit an **issue** or **pull request**!
 
-##More Ressources
+## More Ressources
 
-https://gist.github.com/maxzxc0110/707faca720d557e8b9554341e48c532c
-https://klezvirus.github.io
-Google
-https://www.youtube.com/watch?v=P1PHRcmPM7c
-https://maldevacademy.com/
+- https://gist.github.com/maxzxc0110/707faca720d557e8b9554341e48c532c
+- https://klezvirus.github.io
+- Google
+- https://www.youtube.com/watch?v=P1PHRcmPM7c
+- https://maldevacademy.com/
 
 **Research papers**
 
